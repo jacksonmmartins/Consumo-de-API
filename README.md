@@ -7,3 +7,4 @@ Onde as simunlações estão em Lorem Ipsum devido, a plataforma diponibilizaç�
 Tenologias utilizadas VITE + Javascript + CSS Responsivo.
 
 Clique aqui para acessar o link da página após o deploy: https://react-axios-base.vercel.app/
+
