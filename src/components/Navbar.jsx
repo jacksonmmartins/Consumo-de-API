@@ -2,6 +2,7 @@
 import { Link } from "react-router-dom"
 import './Navbar.css'
 
+//routes navbar apontamentos
 const Navbar  = () => {
     return(
         <nav className="navbar">

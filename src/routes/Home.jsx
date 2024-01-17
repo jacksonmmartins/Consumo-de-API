@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div className="home">
         <h1>
-            Ultimos posts
+            Ultimos posts - Consumo de API Ficticia Lorem Ipsumm
         </h1>
             {posts.length === 0 ?  <p>Carregando...</p> : (
                 posts.map((post) => (

@@ -4,15 +4,12 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 
-import { createBrowserRouter, RouterProvider, Route } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
-//element = elemento principal - página principal da aplicação 
-//children página secundária da aplicação, definidas pelo um path = indicando a rota
-
-//paginas 
 import Home from './routes/Home.jsx'
 import NewPost from './routes/NewPost.jsx'
 
+//Rotas principais do projeto
 const router  = createBrowserRouter([
   {
     element: <App />,

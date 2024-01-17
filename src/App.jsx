@@ -1,8 +1,8 @@
 import './App.css'
 import Navbar from './components/Navbar'
-// outlet é o equivalente informar que o arquivo central irá utilizar todas as rotas descritas no main.jsx
 import { Outlet } from 'react-router-dom'
 
+// apontamentos arquivo central
 function App() {
   return (
     <>
