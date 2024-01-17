@@ -1,8 +1,9 @@
-# React + Vite
+Consumo de API Ficticia // PlaceHolder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clique aqui para acessar o link da página após o deploy: https://react-axios-base.vercel.app/
 
-Currently, two official plugins are available:
+Aplicação baseada no consumo de API, após o deploy disponibilizada no servidor da PlaceHolder para testes de execuções.
+Onde as simunlações estão em Lorem Ipsum devido, a plataforma diponibilização para testes das rotas, mas em uma aplicação real pode ser utilizada, para consumo e edição.
+Tenologias utilizadas VITE + Javascript + CSS Responsivo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clique aqui para acessar o link da página após o deploy: https://react-axios-base.vercel.app/
